@@ -35,7 +35,7 @@
 
 [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
 &nbsp;
-[<img align="left" alt="TypeScript" width="32px" src="https://logodix.com/logo/1858255.jpg"/>][git]
+[<img align="left" alt="TypeScript" width="32px" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png"/>][git]
 &nbsp;
 
 
