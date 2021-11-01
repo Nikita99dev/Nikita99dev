@@ -34,9 +34,28 @@
 ### Учу сейчас:
 
 [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
+&nbsp;
+[<img align="left" alt="TypeScript" width="32px" src="https://logodix.com/logo/1858255.jpg"/>][git]
+&nbsp;
+
+
+
+
+---
+### Контакты:
+
+[<img align="left" alt=" Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt=" WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
+[<img align="left" alt=" Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+
+<br/>
+<br/>
+
 
 [git]: https://github.com/Nikita99dev
-
+[telegram]: https://t.me/nikione1
+[instagram]: https://www.instagram.com/karpushevnikita/
+[whatsapp]: https://wa.me/79689784275
 
 
 <!--
