@@ -1,4 +1,6 @@
 ### Hi there 👋
+JavaScriptTypeScriptReactReduxNode.jsSQLPostgreSQLDockerGitVisual Studio CodeCSS3SassHTML5
+
 
 <!--
 **Nikita99dev/Nikita99dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
