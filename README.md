@@ -1,6 +1,5 @@
 ### Привет! Я - Никита, frontend разработчик!
 
-- :point_right: Я ищу работу!
 - :lollipop: Интересуюсь web-разработкой, спортом, путешествиями 
 - :fortune_cookie:  Изучаю TypeScript
 - 📫 Как связаться: nkarpushev99@mail.ru
@@ -49,6 +48,14 @@
 
 <br/>
 <br/>
+
+---
+### My stats: 
+
+![Nikits's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita99dev&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+
+### My languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita99dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [git]: https://github.com/Nikita99dev
