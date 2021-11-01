@@ -20,10 +20,10 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
+- **Фронтенд**: JS, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass, Styled Components
 - **Бекенд**: Node.js, Express, Sessions, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
-- **A также**: Jest, Docker, REST
+- **A также**: Jest, Docker, REST 
 
 
 <!--
