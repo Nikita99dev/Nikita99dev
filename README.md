@@ -1,5 +1,5 @@
 ### Hi there 👋
-JavaScriptTypeScriptReactReduxNode.jsSQLPostgreSQLDockerGitVisual Studio CodeCSS3SassHTML5
+
 
 
 <!--
