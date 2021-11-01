@@ -1,8 +1,8 @@
 ### Привет! Я - Никита, frontend разработчик!
 
 - :point_right: Я ищу работу!
-- 👀 Интересуюсь web-разработкой, спортом, путешествиями 
-- :space_invader:  Изучаю TypeScript
+- :lollipop: Интересуюсь web-разработкой, спортом, путешествиями 
+- :fortune_cookie:  Изучаю TypeScript
 - 📫 Как связаться: nkarpushev99@mail.ru
 
 ### Мой стек:
@@ -11,7 +11,6 @@
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][git]
 [<img align="left" alt="Redux"  width="32px" src="https://img.icons8.com/color/48/000000/redux.png"/>][git]
 [<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][git]
-[<img align="left" alt="SQL" width="32px" src="https://img.icons8.com/color-glass/48/000000/sql.png"/>][git]
 [<img align="left" alt="PostgreSQL" width="32px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>][git]
 [<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/000000/git.png"/>][git]
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
@@ -33,8 +32,8 @@
 ### Учу сейчас:
 
 [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
-[<img align="left" alt="TypeScript" width="60px" src="https://cdn.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png"/>][git]
 &nbsp;
+
 
 
 
