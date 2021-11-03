@@ -33,6 +33,7 @@
 
 ### Учу сейчас:
 
+
 [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
 &nbsp;
 [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/firebase.png"/>][git]
