@@ -18,13 +18,10 @@
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
 [<img align="left" alt="webstorm" width="32px" src="https://img.icons8.com/color/48/000000/webstorm.png" />][git]
 [<img align="left" alt="webstorm" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][git]
-
-
 <br/>
 <br/>
 <br/>
 <br/>
-
 - **Фронтенд**: JS, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass, Styled Components
 - **Бекенд**: Node.js, Express, Sessions, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
