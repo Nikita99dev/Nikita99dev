@@ -4,6 +4,8 @@
 - :fortune_cookie:  Изучаю TypeScript
 - 📫 Как связаться: nkarpushev99@mail.ru
 
+---
+
 ### Мой стек:
 
 [<img align="left" alt="JavaScript" width="32px" src="https://img.icons8.com/color/48/000000/javascript--v2.png" />][git]
