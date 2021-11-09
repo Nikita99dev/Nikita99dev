@@ -23,7 +23,7 @@
 <br/>
 <br/>
 - **Фронтенд**: JS, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass, Styled Components
-- **Бекенд**: Node.js, Express, Sessions, WebSockets
+- **Бекенд**: Node.js, Express.js, Sessions, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST 
 
@@ -33,9 +33,9 @@
 
 [<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][git]
 &nbsp;
-[<img align="left" alt="TypeScript" width="32px" src="https://img.icons8.com/color/48/000000/firebase.png"/>][git]
-
-
+[<img align="left" alt="Firebase" width="32px" src="https://img.icons8.com/color/48/000000/firebase.png"/>][git]
+&nbsp;
+[<img align="left" alt="Docker" width="32px" src="https://img.icons8.com/color/48/000000/docker.png"/>][git]
 
 
 ---
