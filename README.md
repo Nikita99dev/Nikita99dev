@@ -23,7 +23,7 @@
 [<img align="left" alt="c_plus_plus" width="32px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][git]
 <br/>
 <br/>
-- **Фронтенд**: JS, React, Hooks API, Redux (Saga, Thunk,Redux-Toolkit), HTML5, CSS3, Sass, Styled Components
+- **Фронтенд**: JS, React, Hooks API, Redux (Saga, Thunk, Redux-Toolkit), HTML5, CSS3, Sass, Styled Components
 - **Бекенд**: Node.js, Express.js, Sessions, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST 
