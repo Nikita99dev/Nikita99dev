@@ -29,7 +29,7 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST 
 
----
+
 ### Учу сейчас:
 
 
@@ -55,8 +55,7 @@
 
 ![Nikits's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita99dev&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
----
-
+<br/>
 ### My languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita99dev&layout=compact)](https://github.com/Nikita99dev/github-readme-stats)
 
