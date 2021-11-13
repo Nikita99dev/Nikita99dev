@@ -40,7 +40,7 @@
 [<img align="left" alt="Docker" width="32px" src="https://img.icons8.com/color/48/000000/docker.png"/>][git]
 
 
----
+
 ### Контакты:
 
 [<img align="left" alt=" Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
