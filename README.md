@@ -29,7 +29,7 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST 
 
-
+---
 ### Учу сейчас:
 
 
@@ -60,7 +60,7 @@
 ### My languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita99dev&layout=compact)](https://github.com/Nikita99dev/github-readme-stats)
 
-
+---
 [git]: https://github.com/Nikita99dev
 [telegram]: https://t.me/nikione1
 [instagram]: https://www.instagram.com/karpushevnikita/
