@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-- **Фронтенд**: JS, React, Hooks API, Redux (Saga, Thunk, Redux-Toolkit), HTML5, CSS3, Sass, Styled Components
+- **Фронтенд**: JavaScript, TypeScript, React, Hooks API, Redux (Saga, Thunk, Redux-Toolkit), HTML5, CSS3, Sass, Styled Components
 - **Бекенд**: Node.js, Express.js, Sessions, WebSockets
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, REST 
