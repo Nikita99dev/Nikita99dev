@@ -3,7 +3,7 @@
 
 - :lollipop: Интересуюсь web-разработкой, спортом, путешествиями 
 - :fortune_cookie:  Изучаю TypeScript
-- 📫 Как связаться: nkarpushev99@mail.ru
+- 📫 Как связаться: nkarpushev99@mail.ru 
 - 🥇 Currently working on gitLab
 ---
 
