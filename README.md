@@ -64,7 +64,7 @@
 
 ---
 [git]: https://github.com/Nikita99dev
-[telegram]: https://t.me/nikione1
+[telegram]: https://t.me/nikitakarpushev
 [instagram]: https://www.instagram.com/karpushevnikita/
 [whatsapp]: https://wa.me/79689784275
 
